@@ -471,19 +471,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pst12\\.nuget\\packages\\": {}
+    "/home/thief01/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_Projects\\Web\\Warehouse\\backend\\backend\\backend.csproj",
+      "projectUniqueName": "/home/thief01/proj/Warehouse/backend/backend/backend.csproj",
       "projectName": "backend",
-      "projectPath": "D:\\_Projects\\Web\\Warehouse\\backend\\backend\\backend.csproj",
-      "packagesPath": "C:\\Users\\pst12\\.nuget\\packages\\",
-      "outputPath": "D:\\_Projects\\Web\\Warehouse\\backend\\backend\\obj\\",
+      "projectPath": "/home/thief01/proj/Warehouse/backend/backend/backend.csproj",
+      "packagesPath": "/home/thief01/.nuget/packages/",
+      "outputPath": "/home/thief01/proj/Warehouse/backend/backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pst12\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/thief01/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -541,7 +541,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/thief01/.dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
